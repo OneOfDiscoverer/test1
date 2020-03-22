@@ -1,0 +1,15 @@
+D:\Projects\VisualStudio\abbyy\test1\test1\bin\Debug\test1.exe.config
+D:\Projects\VisualStudio\abbyy\test1\test1\bin\Debug\test1.exe
+D:\Projects\VisualStudio\abbyy\test1\test1\bin\Debug\test1.pdb
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1.csprojAssemblyReference.cache
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\MainWindow.g.cs
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\App.g.cs
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1_MarkupCompile.cache
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1_MarkupCompile.lref
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\MainWindow.baml
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1.g.resources
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1.Properties.Resources.resources
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1.exe
+D:\Projects\VisualStudio\abbyy\test1\test1\obj\Debug\test1.pdb
